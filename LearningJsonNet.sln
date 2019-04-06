@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearningJsonNet", "LearningJsonNet\LearningJsonNet.csproj", "{0D1153DB-3074-4774-AEF1-02ED2188BC29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearningJsonNetTest", "LearningJsonNetTest\LearningJsonNetTest.csproj", "{E7F03DA2-779A-48B4-84F4-AB72C76D8DEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D1153DB-3074-4774-AEF1-02ED2188BC29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D1153DB-3074-4774-AEF1-02ED2188BC29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D1153DB-3074-4774-AEF1-02ED2188BC29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D1153DB-3074-4774-AEF1-02ED2188BC29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7F03DA2-779A-48B4-84F4-AB72C76D8DEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7F03DA2-779A-48B4-84F4-AB72C76D8DEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7F03DA2-779A-48B4-84F4-AB72C76D8DEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7F03DA2-779A-48B4-84F4-AB72C76D8DEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
